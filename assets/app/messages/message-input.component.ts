@@ -17,4 +17,5 @@ export class MessageInputComponent {
     this.messageService.addMessage(message);
     form.resetForm();
   }
+
 }
